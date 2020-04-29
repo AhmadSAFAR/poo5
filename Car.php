@@ -35,7 +35,7 @@ class Car extends Vehicle implements LightableInterface
     }
 
 
-    public function switchOOff(): bool{
+    public function switchOff(): bool{
         return false;
     }
 
