@@ -91,13 +91,5 @@ class Vehicle
     }
 }
 
-class Bike extends Vehicle
-{
 
-}
-
-class Skateboard extends Vehicle
-{
-
-}
 
